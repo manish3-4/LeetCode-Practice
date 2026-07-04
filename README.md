@@ -34,4 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manish3-4/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manish3-4/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manish3-4/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manish3-4/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manish3-4/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
