@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/manish3-4/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manish3-4/LeetCode-Practice/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manish3-4/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/manish3-4/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/manish3-4/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manish3-4/LeetCode-Practice/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manish3-4/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/manish3-4/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manish3-4/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/manish3-4/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## String
 |  |
 | ------- |
