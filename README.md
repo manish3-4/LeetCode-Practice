@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manish3-4/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
+| [0516-longest-palindromic-subsequence](https://github.com/manish3-4/LeetCode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [1406-stone-game-iii](https://github.com/manish3-4/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/manish3-4/LeetCode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/manish3-4/LeetCode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
