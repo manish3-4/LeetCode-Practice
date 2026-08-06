@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/manish3-4/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/manish3-4/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/manish3-4/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/manish3-4/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/manish3-4/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [1406-stone-game-iii](https://github.com/manish3-4/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manish3-4/LeetCode-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manish3-4/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0300-longest-increasing-subsequence](https://github.com/manish3-4/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/manish3-4/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/manish3-4/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/manish3-4/LeetCode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [1406-stone-game-iii](https://github.com/manish3-4/LeetCode-Practice/tree/master/1406-stone-game-iii) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/manish3-4/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manish3-4/LeetCode-Practice/tree/master/0101-symmetric-tree) |
+| [0322-coin-change](https://github.com/manish3-4/LeetCode-Practice/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manish3-4/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/manish3-4/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -125,9 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/manish3-4/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/manish3-4/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/manish3-4/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/manish3-4/LeetCode-Practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
