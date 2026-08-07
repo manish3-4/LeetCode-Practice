@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manish3-4/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/manish3-4/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/manish3-4/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/manish3-4/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/manish3-4/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/manish3-4/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/manish3-4/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/manish3-4/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/manish3-4/LeetCode-Practice/tree/master/1406-stone-game-iii) |
@@ -148,5 +150,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/manish3-4/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/manish3-4/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
