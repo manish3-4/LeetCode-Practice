@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/manish3-4/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/manish3-4/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/manish3-4/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manish3-4/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/manish3-4/LeetCode-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1406-stone-game-iii](https://github.com/manish3-4/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manish3-4/LeetCode-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/manish3-4/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/manish3-4/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manish3-4/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3731-find-missing-elements](https://github.com/manish3-4/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
