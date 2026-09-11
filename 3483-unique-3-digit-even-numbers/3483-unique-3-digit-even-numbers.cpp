@@ -1,29 +1,36 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        int n = digits.size();
-        int even = 0, z = 0;
-        unordered_map <int, int> mpp;
-        for (auto i : digits) mpp[i] += 1;
-        unordered_map <int, int> temp(mpp.begin(), mpp.end());
-        int count = 0;
-        for (int i = 100;i < 1000;i += 2) {
-            int val = i;
-            bool flag = true;
-            while (val != 0) {
-                int rem = val % 10;
-                if (mpp.count(rem)) {
-                    mpp[rem] -= 1;
-                    if (mpp[rem] == 0) mpp.erase(rem);
-                } else {
-                    flag = false;
-                    break;
+        int cnt[10] = {};
+
+        for (int d : digits)
+            cnt[d]++;
+
+        int res = 0;
+
+        for (int a = 1; a <= 9; a++) {
+            if (cnt[a] == 0)
+                continue;
+
+            cnt[a]--;
+
+            for (int b = 0; b <= 9; b++) {
+                if (cnt[b] == 0)
+                    continue;
+
+                cnt[b]--;
+
+                for (int c = 0; c <= 8; c += 2) {
+                    if (cnt[c] > 0)
+                        res++;
                 }
-                val /= 10;
+
+                cnt[b]++;
             }
-            mpp = temp;
-            if (flag) count += 1;
+
+            cnt[a]++;
         }
-        return count;
+
+        return res;
     }
 };
