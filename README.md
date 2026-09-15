@@ -220,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/manish3-4/LeetCode-Practice/tree/master/3903-smallest-stable-index-i) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/manish3-4/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
