@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manish3-4/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/manish3-4/LeetCode-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/manish3-4/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/manish3-4/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/manish3-4/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manish3-4/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/manish3-4/LeetCode-Practice/tree/master/0217-contains-duplicate) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manish3-4/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/manish3-4/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/manish3-4/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/manish3-4/LeetCode-Practice/tree/master/0268-missing-number) |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/manish3-4/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manish3-4/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/manish3-4/LeetCode-Practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
