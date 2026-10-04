@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/manish3-4/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/manish3-4/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/manish3-4/LeetCode-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/manish3-4/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/manish3-4/LeetCode-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/manish3-4/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/manish3-4/LeetCode-Practice/tree/master/1406-stone-game-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manish3-4/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/manish3-4/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/manish3-4/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manish3-4/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/manish3-4/LeetCode-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/manish3-4/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/manish3-4/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/manish3-4/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manish3-4/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/manish3-4/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/manish3-4/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/manish3-4/LeetCode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -239,5 +243,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/manish3-4/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manish3-4/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
