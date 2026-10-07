@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/manish3-4/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manish3-4/LeetCode-Practice/tree/master/0101-symmetric-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/manish3-4/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/manish3-4/LeetCode-Practice/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manish3-4/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/manish3-4/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/manish3-4/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/manish3-4/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/manish3-4/LeetCode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/manish3-4/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/manish3-4/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/manish3-4/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/manish3-4/LeetCode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
