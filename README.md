@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/manish3-4/LeetCode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/manish3-4/LeetCode-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manish3-4/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/manish3-4/LeetCode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/manish3-4/LeetCode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/manish3-4/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manish3-4/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/manish3-4/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manish3-4/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/manish3-4/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/manish3-4/LeetCode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,11 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/manish3-4/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manish3-4/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/manish3-4/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/manish3-4/LeetCode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/manish3-4/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manish3-4/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/manish3-4/LeetCode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/manish3-4/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/manish3-4/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [1254-number-of-closed-islands](https://github.com/manish3-4/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/manish3-4/LeetCode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
