@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/manish3-4/LeetCode-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manish3-4/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/manish3-4/LeetCode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/manish3-4/LeetCode-Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/manish3-4/LeetCode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/manish3-4/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/manish3-4/LeetCode-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/manish3-4/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/manish3-4/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/manish3-4/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3665-twisted-mirror-path-count](https://github.com/manish3-4/LeetCode-Practice/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/manish3-4/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [1254-number-of-closed-islands](https://github.com/manish3-4/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/manish3-4/LeetCode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/manish3-4/LeetCode-Practice/tree/master/3665-twisted-mirror-path-count) |
 ## Binary Indexed Tree
 |  |
 | ------- |
