@@ -1,45 +1,51 @@
 class Solution {
-    private record State(int w, int idx){}; 
-    private record UsedState(int time, int idx){}; 
+
     public int[] assignTasks(int[] servers, int[] tasks) {
-        // I need priority_queue for the servers 
-        PriorityQueue<State> server_pool = new PriorityQueue<State>((a, b) -> {
-            if(a.w == b.w) return Integer.compare(a.idx, b.idx); 
-            return Integer.compare(a.w, b.w); 
-        }); 
+        // Busy servers, stored as pairs (t, idx)
+        PriorityQueue<int[]> busy = new PriorityQueue<>((a, b) -> a[0] - b[0]);
 
-        PriorityQueue<UsedState> server_occupied = new  PriorityQueue<UsedState>((a, b) -> {
-            return Integer.compare(a.time, b.time); 
-        }); 
+        // Idle servers, stored as pairs (w, idx)
+        PriorityQueue<int[]> idle = new PriorityQueue<>((a, b) -> {
+            if (a[0] != b[0]) {
+                return a[0] - b[0];
+            }
+            return a[1] - b[1];
+        });
 
-        // initially for each task length we will have a event 
-        int n = servers.length, m = tasks.length; 
+        for (int i = 0; i < servers.length; i++) {
+            idle.offer(new int[] { servers[i], i });
+        }
 
-        // add all servers to empty server pool 
-        for(int i = 0; i < n; i++) server_pool.add(new State(servers[i], i)); 
+        int ts = 0;
+        int[] ans = new int[tasks.length];
 
-        int ans[] = new int[m]; 
-        
-        int time = 0; 
-        for(int i = 0; i < m; i++) {
-            time = Math.max(time, i); 
-            // add current task to the available server, if no server is available, increment time, to the when a server will be free
-            if(server_pool.isEmpty()) time = Math.max(time, server_occupied.peek().time); 
-
-            // check if there is any server that can be freed at this time... 
-            while(!server_occupied.isEmpty() && server_occupied.peek().time <= time) {
-                // that means this server can be free'd now 
-                int idx = server_occupied.peek().idx; 
-                server_occupied.poll(); 
-                server_pool.add(new State(servers[idx], idx)); 
+        for (int i = 0; i < tasks.length; i++) {
+            ts = Math.max(ts, i);
+            release(busy, idle, servers, ts);
+            if (idle.isEmpty()) {
+                ts = busy.peek()[0];
+                release(busy, idle, servers, ts);
             }
 
-            // current server available is? 
-            int idx = server_pool.peek().idx; 
-            ans[i] = idx; 
-            server_occupied.add(new UsedState(time + tasks[i], idx)); 
-            server_pool.poll(); 
+            int[] server = idle.poll();
+            int idx = server[1];
+            ans[i] = idx;
+            busy.offer(new int[] { ts + tasks[i], idx });
         }
-        return ans; 
+
+        return ans;
+    }
+
+    // Move servers with t<=ts from priority queue busy to priority queue idle one by one
+    private void release(
+            PriorityQueue<int[]> busy,
+            PriorityQueue<int[]> idle,
+            int[] servers,
+            int ts) {
+        while (!busy.isEmpty() && busy.peek()[0] <= ts) {
+            int[] server = busy.poll();
+            int idx = server[1];
+            idle.offer(new int[] { servers[idx], idx });
+        }
     }
 }
