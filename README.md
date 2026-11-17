@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/manish3-4/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0844-backspace-string-compare](https://github.com/manish3-4/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/manish3-4/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/manish3-4/LeetCode-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/manish3-4/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/manish3-4/LeetCode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/manish3-4/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/manish3-4/LeetCode-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/manish3-4/LeetCode-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/manish3-4/LeetCode-Practice/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/manish3-4/LeetCode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/manish3-4/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/manish3-4/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/manish3-4/LeetCode-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/manish3-4/LeetCode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/manish3-4/LeetCode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/manish3-4/LeetCode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
